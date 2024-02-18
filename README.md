@@ -1,7 +1,4 @@
-Repository to store dataset and analysis of IEC-61850 and Internet
-
-
-#### Research Question: Can we use an Internet entity (IXP, DCs) to provide resilience to IEC-61850 networks?
+### Research Question: Can we use an Internet entity (IXP, DCs) to provide resilience to IEC-61850 networks?
 
 - Target Usecases: We target inter-substation communication usecases:
   + Protection Usecases
